@@ -37,7 +37,7 @@ uvicorn main:app --port 5000 --reload
 
 You can now access the application in your browser at `http://localhost:5000`.
 
-API documentation is available at `http://localhost:8000/docs` or `http://localhost:5000/redoc`.
+API documentation is available at `http://localhost:5000/docs` or `http://localhost:5000/redoc`.
 
 ## Usage
 
