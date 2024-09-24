@@ -12,7 +12,7 @@ Ensure you have Python 3.7+ installed. Then follow these steps to install and ru
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/qyy752457002/FastAPI-RESTful.git)
+   git clone https://github.com/qyy752457002/FastAPI-RESTful.git
    cd FastAPI-RESTful
    ```
 
