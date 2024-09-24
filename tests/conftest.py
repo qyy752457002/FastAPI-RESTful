@@ -14,9 +14,9 @@ from httpx import AsyncClient
 os.environ["ENV_STATE"] = "test"
 
 # 从database模块中导入database对象
-from database import database, user_table
+from database import database, user_table # noqa: E402
 # 从main模块中导入app对象
-from main import app 
+from main import app # noqa: E402
 
 # 定义一个名为anyio_backend的fixture，作用域为session
 @pytest.fixture(scope="session")

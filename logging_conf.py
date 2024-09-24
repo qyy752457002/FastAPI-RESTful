@@ -62,7 +62,7 @@ def configure_logging() -> None:
                     "datefmt": "%Y-%m-%dT%H:%M:%S",
                     # For JsonFormatter, the format string just defines what keys are included in the log record
                     # It's a bit clunky, but it's the way to do it for now
-                    "format": "%(asctime)s %(msecs)03d %(levelname)s %(correlation_id)s %(name)s %(lineno)d %(message)s",
+                    "format": "%(asctime)s %(msecs)03d %(levelname)s %(correlation_id)s %(name)s %(lineno)d %(message)s", # noqa: E501
                 },
             },
             "handlers": {
