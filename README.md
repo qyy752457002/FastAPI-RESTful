@@ -57,6 +57,6 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 
 ## Contact
 
-[Your Name] - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+[Yiyu Qian] - yiyuqianunitediting@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: https://github.com/qyy752457002/FastAPI-RESTful.git
